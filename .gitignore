@@ -48,3 +48,6 @@ cmake-build-debug/
 
 # macOS compilation dirs
 *.dSYM
+
+/target
+**/*.rs.bk
